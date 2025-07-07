@@ -14,6 +14,7 @@ pkgs.mkShell {
     rust-bindgen
     mask
     bacon
+    k6
   ];
   shellHook = ''
     echo "Let's Rinha!"

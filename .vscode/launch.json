@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "name": "Debug rinha2501",
+        "type": "lldb",
+        "request": "launch",
+        "program": "./target/debug/rinha2501",
+        "cwd": "${workspaceFolder}",
+        "stopOnEntry": false,
+        "args": [ ]
+    }
+  ]
+}
